@@ -92,14 +92,6 @@ Doctor: Dashboard, Patient History, Consultation Page
 ## 🎯 Project Goal
 To replace manual hospital systems with a fast, scalable, and digital healthcare management platform.
 
-## 👨‍💻 Team Members
-Dawit Lulie  
-Emran Seid  
-Kirubel Anteneh  
-Kidus Tessema  
-Feven Tassew  
-Haset Tesfaye  
-
 ## 📜 License
 MIT License
 
