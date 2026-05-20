@@ -6,6 +6,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=40&duration=3500&pause=700&color=2E7D32&center=true&vCenter=true&width=1500&lines=Hospital+Management+System+%7C+HMS;Patient+Management+%7C+Doctor+Consultation+%7C+Appointments;Full+Stack+React+%2B+PHP+%2B+MySQL+System" />
 </h1>
 
+
+
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 <a href="#"><img src="https://img.shields.io/badge/Frontend-React.js-blue.svg"></a>
