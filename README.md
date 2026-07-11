@@ -7,7 +7,6 @@
 </h1>
 
 
-
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 <a href="#"><img src="https://img.shields.io/badge/Frontend-React.js-blue.svg"></a>
