@@ -18,6 +18,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=1200&lines=Smart+Hospital+Workflow+System;Patient+to+Doctor+Pipeline+Automation;Role-Based+Healthcare+Management" />
 </h1>
 
+
 ## 🌐 Project Overview
 Hospital Management System (HMS) is a full-stack web application designed to digitize and automate hospital operations. It manages patient registration, appointments, queue management, doctor consultation, diagnosis recording, prescription management, and user roles.
 
